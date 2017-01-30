@@ -18,5 +18,5 @@ End Testing1
 <h1> Testing2 </h1>
 Based on Testing1, need to figure out how to manage branches.
 
-
+1. Was using Test2 branch.  Checked out readme-edits1 branch. Committed changes.
 
