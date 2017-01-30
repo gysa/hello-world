@@ -35,3 +35,5 @@ None of the changes in Test2 are showing in this branch.
 3. Checked out Master branch.
 4. Merged readme-edits and added this section.
 5. Committed changes.
+6. Commit and Pushed changes.
+
