@@ -19,4 +19,7 @@ End Testing1
 Based on Testing1, need to figure out how to manage branches.
 
 1. Was using Test2 branch.  Checked out readme-edits1 branch. Committed changes.
-
+None of the changes in Test2 are showing in this branch.
+2. Closed PhpStorm.  Check if lines 22 and 23 are here when reopened.
+3. Reopened PhpStorm and lines 22 and 23 were saved.
+4. Committed changes.
