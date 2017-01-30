@@ -29,3 +29,9 @@ None of the changes in Test2 are showing in this branch.
 2. Closed PhpStorm.  Check if lines 22 and 23 are here when reopened.
 3. Reopened PhpStorm and lines 22 and 23 were saved.
 4. Committed changes.
+
+1. merged Test2 to readme-edits1 (used Commit File option)
+2. Deleted Test 2 branch.
+3. Checked out Master branch.
+4. Merged readme-edits and added this section.
+5. Committed changes.
